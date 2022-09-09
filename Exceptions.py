@@ -14,7 +14,8 @@ try:
         reader.read()
 
 except:
-    print("I reached this block even after failure - The error is shown below")
+    print("Another Operation")
+    print("New operation")
 
 try:
     with open('file.txt', 'r') as reader:
