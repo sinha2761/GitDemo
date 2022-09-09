@@ -24,4 +24,4 @@ except Exception as e:
     print(e)
 
 finally:
-    print("Cleaning Records")
+    print("Cleaning Records - Performing Git Operation")
