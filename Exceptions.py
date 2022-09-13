@@ -15,8 +15,11 @@ try:
 
 except:
     print("I reached this block even after failure - The error is shown below")
-    print("This is Git Demo Operation")
-    print("This is another git demo operation")
+    print("This is Git Demo Operation 1")
+    print("This is Git Demo Operation 2")
+    print("This is Git Demo Operation 3")
+    print("This is Git Demo Operation 4")
+
 
 try:
     with open('file.txt', 'r') as reader:
